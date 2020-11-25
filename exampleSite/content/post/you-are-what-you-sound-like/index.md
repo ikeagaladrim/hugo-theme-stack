@@ -2,7 +2,7 @@
 author = "Shiraz"
 date = 2020-11-25T17:53:00Z
 description = "Today - you are what you sounds like, not 'Wear'"
-image = "ameer-basheer-T29AcrDfWsY-unsplash.png"
+image = "ameer-basheer-T29AcrDfWsY-unsplash.jpg"
 tags = [ 
     "teleworking",
 ]
@@ -33,7 +33,7 @@ Using the old wired headset in your draw is a great option. If you’ve watched 
 
 Having a single wire with individual hardware sources for both Microphone and in-ear speakers make for an elegant yet very effective solution.
 
-!(1601028221667.jpeg)
+![](1601028221667.jpeg)
 I know a guy, who knows a girl, who's a sound check engineer for a TV broadcaster, they now almost exclusively request guest speakers use wired headsets, notice how the mic is perfectly positioned close to your mouth?
 
 
@@ -44,7 +44,7 @@ There are too many recommendations here, for me, the Apple AirPods integrates we
 ## 3. Use a dedicated USB Microphone:
 
 This will make the audiophiles cringe, I know XLR solutions are the far superior option! but for us, work-from-homers, who just need something simple and plug n' play, USB is the simplest option. So if you want to take your sound game up a level, without investing in audio interfaces, preamps, cables and sound cards, [get yourself one of these](https://geni.us/ABKH803). Yep it’s pricey, but it’s still cheaper than parking your car at Heathrow for a two-day business trip you could have had over Zoom? (maybe)
-!(blue-yeti-mic.jpeg)
+![The blue Yeti](blue-yeti-mic.jpeg)
 Personally, I use the Blue Snowball (the younger brother to the one I’ve linked), it costs around £50, only, it’s eight years old and is always out of stock. I’ve used the Blue Yeti (pictured above), it’s very slick, looks great on the desk and produces higher quality sound compared to my Snowball. If the price of the Yeti is an issue, look for the Blue Snowball on eBay, don't pay more than £50 though.
 
 ## Avoid...

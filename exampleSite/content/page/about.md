@@ -1,27 +1,24 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Shiraz Valji"
+date = 2020-10-28T14:21:23Z
+description = "About Me - Shiraz Valji"
+lastmod = 2020-10-09T00:00:00Z
 license = "CC BY-NC-ND"
-lastmod = "2020-10-09"
+title = "About"
+
 +++
+I'm a CyberSecurity professional with an itch for self-development, if that sounds a little woo-woo (the self development part) this is how I would define it.
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Self-development is about enhancing, tuning, exploring, defining, failing, redefining and recognising all aspects of your ‘self’ - the feedback loop is always rewarding, finally I firmly believe self-development bleeds into all aspects of your professional life. Which should further encourage us all to explore a little more.
 
-Hugo makes use of a variety of open source projects including:
+My plan is to use this corner of the internet to journal interesting finds, share ‘stuff’ I write elsewhere and finally document things that I know will be helpful to others, I also love;
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* All things Productivity related - because, I need it
+* Code (yeah right)
+* and finally my curated leather jacket collection :)
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Putting this site together was an easy decision, this quote by Annie Dillard sums my the motivation perfectly.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+> **"...the impulse to keep to yourself what you have learned is not only shameful, it is destructive. Anything you do not give freely and abundantly becomes lost to you. You open your safe and find ashes...”  
+> ― Annie Dillard**
