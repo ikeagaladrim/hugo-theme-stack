@@ -1,23 +1,23 @@
 +++
 author = "Shiraz"
 date = 2020-11-25T17:53:00Z
-description = "Today - you are what you sounds like, not 'Wear'"
+description = "These days, your shoes don't matter"
 image = "ameer-basheer-T29AcrDfWsY-unsplash.jpg"
 tags = [ 
     "teleworking",
 ]
-title = "You are What you Sounds Like"
+title = "You are what you Sound Like"
 
 +++
-Working in Tech or for the last 10+ years means I’m no stranger to remote working, working with global clients over the last 3-5 years means I’ve participated and hosted my fair of remote Zoom-style calls before C-19 kicked us all in the nads, although, full disclosure, for important meeting first time meetings we jumped on planes, even for transatlantic business. Anyway.
+Working in big Tech for the last 10+ years means I’m no stranger to remote working, working with global clients over the last 3-5 years means I’ve participated and hosted my fair of remote Zoom-style calls before C-19 kicked us all in the nads, although, full disclosure, for important first time meetings we jumped on planes, even for transatlantic business. As glamorous as that sounds, it’s really not - a topic for another day!
 
-It’s very difficult to replicate and capture all the nuances and unspoken activities that occur in a face to face meeting - I think most reading this will know this already, after all it’s Nov-2020. And, I guess this is exactly what ‘grinned-my-gears’ so to speak; Tech speakers who should be veterans at presenting remotely, doing a terrible job, especially when the fixes are so simple. Imagine taking out time as a participant to hear a presenter um and err from what sounds like potato?
+It’s very difficult to replicate and to capture all the nuances and unspoken details that occur in a face-to-face meeting - I think most reading will know this already, after all it’s Nov-2020. And, I guess this is exactly what ‘rubs-me-the-wrong-way’, enough to make me want to write about it!
 
-## Here’s the piece I posted on LinkedIn - some simple, yet very effective ways to improve you’re next conf. call!
+Tech speakers, who should be veterans at this presenting game are doing remote presentations horribly! What makes this even worse is how easily 90% of the ills could be addressed with little effort. Imagine taking out time as a participant to hear a presenter ‘um’ and ‘err’ for 45 minutes from what sounds like potato?
+
+# Below is the piece I posted on LinkedIn - simple, yet very effective ways to improve you’re next conf. call!
 
 # How to Make Your Work-from-Home Calls 97% Better
-
-## Paragraph
 
 It’s unfair, but universally recognised that our subconscious cognition runs at neck-break speeds to aid our everyday decision-making, most of which is on auto-pilot. Essentially, we're all experts at judging on first impressions.
 
@@ -44,17 +44,18 @@ There are too many recommendations here, for me, the Apple AirPods integrates we
 ## 3. Use a dedicated USB Microphone:
 
 This will make the audiophiles cringe, I know XLR solutions are the far superior option! but for us, work-from-homers, who just need something simple and plug n' play, USB is the simplest option. So if you want to take your sound game up a level, without investing in audio interfaces, preamps, cables and sound cards, [get yourself one of these](https://geni.us/ABKH803). Yep it’s pricey, but it’s still cheaper than parking your car at Heathrow for a two-day business trip you could have had over Zoom? (maybe)
-![The blue Yeti](blue-yeti-mic.jpeg)
+![The Blue Yeti](blue-yeti-mic.jpeg)
 Personally, I use the Blue Snowball (the younger brother to the one I’ve linked), it costs around £50, only, it’s eight years old and is always out of stock. I’ve used the Blue Yeti (pictured above), it’s very slick, looks great on the desk and produces higher quality sound compared to my Snowball. If the price of the Yeti is an issue, look for the Blue Snowball on eBay, don't pay more than £50 though.
 
 ## Avoid...
 
 Whatever you choose, avoid using an in-built laptop mic and loudspeaker, because;
 
-you’ll likely be too far away from the mic
-the choice of microphone component in your laptop was made in a pre-COVID era
-lastly, your mic is likely to be caked in irremovable dust.
+# you’ll likely be too far away from the mic
+# the choice of microphone component in your laptop was made in a pre-COVID era
+# lastly, your mic is likely to be caked in irremovable dust.
 Also, when you use your laptop speaker for sound and your laptop mic as input, your machine (or some software) has to work hard to prevent the sounds from your speakers going back into the call. This solution just isn’t elegant - especially when so many cost-effective solutions exist.
+![](zoom1.jpeg)
 
 ## Bonus Tip: Your Webcam
 
