@@ -3,7 +3,9 @@ author = "Shiraz"
 date = 2020-11-25T17:53:00Z
 description = "Today - you are what you sounds like, not 'Wear'"
 image = "ameer-basheer-T29AcrDfWsY-unsplash.png"
-tags = "teleworking"
+tags = [ 
+    "teleworking",
+]
 title = "You are What you Sounds Like"
 
 +++
