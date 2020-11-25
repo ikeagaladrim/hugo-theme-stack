@@ -23,7 +23,7 @@ googleAnalytics = "UA-179128102-1"
     [params.sidebar]
         emoji = ""
         avatar = "img/avatar.png"
-        subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        subtitle = "A Cybersecurity professional. Personal-development Enthusiast. I read, write and share."
         
     [params.article]
         math = false

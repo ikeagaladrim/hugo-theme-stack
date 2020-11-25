@@ -15,9 +15,9 @@ It’s very difficult to replicate and to capture all the nuances and unspoken d
 
 Tech speakers, who should be veterans at this presenting game are doing remote presentations horribly! What makes this even worse is how easily 90% of the ills could be addressed with little effort. Imagine taking out time as a participant to hear a presenter ‘um’ and ‘err’ for 45 minutes from what sounds like potato?
 
-# Below is the piece I posted on LinkedIn - simple, yet very effective ways to improve you’re next conf. call!
+## Below is the piece I posted on LinkedIn - simple, yet very effective ways to improve you’re next conf. call!
 
-# How to Make Your Work-from-Home Calls 97% Better
+## How to Make Your Work-from-Home Calls 97% Better
 
 It’s unfair, but universally recognised that our subconscious cognition runs at neck-break speeds to aid our everyday decision-making, most of which is on auto-pilot. Essentially, we're all experts at judging on first impressions.
 
@@ -51,9 +51,9 @@ Personally, I use the Blue Snowball (the younger brother to the one I’ve linke
 
 Whatever you choose, avoid using an in-built laptop mic and loudspeaker, because;
 
-# you’ll likely be too far away from the mic
-# the choice of microphone component in your laptop was made in a pre-COVID era
-# lastly, your mic is likely to be caked in irremovable dust.
+## you’ll likely be too far away from the mic
+## the choice of microphone component in your laptop was made in a pre-COVID era
+## lastly, your mic is likely to be caked in irremovable dust.
 Also, when you use your laptop speaker for sound and your laptop mic as input, your machine (or some software) has to work hard to prevent the sounds from your speakers going back into the call. This solution just isn’t elegant - especially when so many cost-effective solutions exist.
 ![](zoom1.jpeg)
 
