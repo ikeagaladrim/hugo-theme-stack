@@ -3,7 +3,7 @@ author = "Shiraz"
 date = 2021-03-09T00:58:00Z
 description = "Well, I hope this is okay?"
 image = "/uploads/taylor-heery-xdqt68l-2aq-unsplash.jpg"
-tags = []
+tags = ["new-tag"]
 title = "The Frictionless Test"
 
 +++
