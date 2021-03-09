@@ -20,5 +20,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- exampleSite/content/post/test-post-from-forest/the-frictionless-test.md
