@@ -18,7 +18,6 @@ My plan is to use this corner of the internet to journal interesting finds, shar
 * Code (yeah right)
 * and finally my curated leather jacket collection :)
 
-Putting this site together was an easy decision, this quote by Annie Dillard sums my the motivation perfectly.
+Putting this site together was an easy decision, this quote by Annie Dillard sums the motivation perfectly.
 
-> # **"...the impulse to keep to yourself what you have learned is not only shameful, it is destructive. Anything you do not give freely and abundantly becomes lost to you. You open your safe and find ashes...”  
-> ― Annie Dillard**
+> # "...the impulse to keep to yourself what you have learned is not only shameful, it is destructive. Anything you do not give freely and abundantly becomes lost to you. You open your safe and find ashes...” ― Annie Dillard
