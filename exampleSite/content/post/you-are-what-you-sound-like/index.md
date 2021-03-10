@@ -3,10 +3,8 @@ author = "Shiraz"
 date = 2020-11-25T17:53:00Z
 description = "These days, your shoes don't matter"
 image = "ameer-basheer-T29AcrDfWsY-unsplash.jpg"
-tags = [ 
-    "teleworking",
-]
-title = "You are what you Sound Like"
+tags = ["teleworking"]
+title = "In 2020, you are what you Sound Like"
 
 +++
 Working in big Tech for the last 10+ years means I’m no stranger to remote working, working with global clients over the last 3-5 years means I’ve participated and hosted my fair of remote Zoom-style calls before C-19 kicked us all in the nads, although, full disclosure, for important first time meetings we jumped on planes, even for transatlantic business. As glamorous as that sounds, it’s really not - a topic for another day!
