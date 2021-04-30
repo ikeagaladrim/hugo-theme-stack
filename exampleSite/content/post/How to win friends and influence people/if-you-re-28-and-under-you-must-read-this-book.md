@@ -7,10 +7,12 @@ tags = ["Personal-Development"]
 title = "If you’re 28 and under, you must read this book"
 
 +++
-‘How to win friends and influence people’ never made it onto my read list, the name alone was enough for me to cast it aside, "I don’t even have Facebook, why did I need to win friends?" I thought. 
+‘How to win friends and influence people’ never made it onto my read list, the name alone was enough for me to cast it aside, "I don’t even have Facebook, why did I need to win friends?" I thought.
 
 **How-foolish-of-me.**
 
-If entered the working world in a technical role, you must read this book, it’s the manual no one passed you, the undocumented RFC that’s so integral to everything we do. If you choose not to read it, you’ll be in danger of working hard forever, when you should be working smart, when you should be building meaningful relationships, when you should be presenting, discussing, objecting and influencing. [I wrote a little more in this medium article](https://shirazvalji.medium.com/an-85-year-old-book-doubled-my-salary-e3fad1da8182), you could just grab the [book from here too](https://geni.us/eaKZepE).
+If you entered the working world in a technical role (essentially any role outside of sales), then you must read this book, it's the manual no one passed you, the undocumented RFC that’s so integral to everything we do. If you choose not to read it, you’ll be in danger of working hard forever, when you should be working smart, when you should be building meaningful relationships, when you should be presenting, discussing, objecting and influencing. [I wrote a little more in this medium article](https://shirazvalji.medium.com/an-85-year-old-book-doubled-my-salary-e3fad1da8182), you could just grab the [book from here too](https://geni.us/eaKZepE).
+
+I'm making an assumption that if you are in sales, or you started your career in sales it's likely you're well aware of HTWF&IP.
 
 \*if you buy the book using this link, I may get thrown some pocket change from Amazon.
