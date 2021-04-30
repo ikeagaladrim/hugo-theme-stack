@@ -20,3 +20,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- exampleSite/content/post/How to win friends and influence people/if-you-re-28-and-under-you-must-read-this-book.md
