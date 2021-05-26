@@ -2,7 +2,6 @@
 author = "Shiraz Valji"
 date = 2021-05-26T17:55:00Z
 description = "Here’s my first attempt of a casual, thought capturing write-up."
-draft = true
 image = "/uploads/joshua-woroniecki-lzh3hptjz9c-unsplash.jpg"
 tags = ["Cybersecurity", "Blog"]
 title = "Musings on Ransomware"
