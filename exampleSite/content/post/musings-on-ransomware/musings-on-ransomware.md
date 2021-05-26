@@ -19,4 +19,4 @@ The advice I’m currently giving myself;
 * Back-up the back-ups (offline)
 * Use plain text email, don’t accept attachments
 * Keep thinking about lateral movement (and how to stop it).
-* If I had a business – using EDR + Browser Isolation Technology + a Sandbox for every attachment.
+* If I had a business – using EDR + Browser Isolation Technology + a Sandbox for every attachment. 
